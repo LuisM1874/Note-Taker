@@ -25,3 +25,8 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
+
+Code Repository : https://github.com/LuisM1874/Note-Taker
+
+Heroku Repo : https://dashboard.heroku.com/apps/secure-reaches-55998
+Heroku Deployed : https://secure-reaches-55998-7082dc85650b.herokuapp.com/
